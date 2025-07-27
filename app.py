@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 
 st.set_page_config(page_title="Sistem Perpustakaan", layout="wide")
-st.title("📚 Sistem Perpustakaan Sederhana")
+st.title(" Sistem Perpustakaan Sekolah")
 
 # Inisialisasi data
 if "books" not in st.session_state:
